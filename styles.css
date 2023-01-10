@@ -6,11 +6,18 @@
     /* justify-content: xxx */
 }
 
+body {
+    margin: 0px;
+}
+
 .header {
    background-color: #1f2937;
    color: #f9faf8;
-   margin: auto;
+   margin: 0;
+   /* height: 30px; */
+   /* width: 900px; */
    display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
-.header 
