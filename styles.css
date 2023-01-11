@@ -73,6 +73,28 @@ body {
     width: 400px;
 }
 
-.body {
+.body1 {
+    height: 400px;
+    margin: 0;
+}
+
+.body1 .content .boxes {
     display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.body1 .content .text {
+    opacity: 50%;
+    height: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.body1 .content .text p {
+    margin-top: 0;
 }
