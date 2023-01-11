@@ -66,5 +66,9 @@ body {
     height: 400px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around
+}
+
+.hero .left {
+    width: 400px;
 }
