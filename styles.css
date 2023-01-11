@@ -98,3 +98,10 @@ body {
 .body1 .content .text p {
     margin-top: 0;
 }
+
+.body2 {
+    background-color: #e5e7eb;
+    height: 300px;
+    margin: 0;
+    text-align: center;
+}
