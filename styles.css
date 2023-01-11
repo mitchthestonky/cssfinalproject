@@ -58,3 +58,13 @@ body {
     font-weight: normal;
     text-align: center;
 }
+
+.hero {
+    background-color: #1f2937;
+    color: #f9faf8;
+    margin: 0;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
