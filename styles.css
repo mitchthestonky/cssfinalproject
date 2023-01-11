@@ -105,3 +105,22 @@ body {
     margin: 0;
     text-align: center;
 }
+
+.body3 {
+    height: 250px;
+    display: flex;
+}
+
+.body3 .box {
+    background-color: #3882f6;
+    border-radius: 5px;
+    height: 150px;
+    width: 700px;
+    margin-top: 50px ;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
