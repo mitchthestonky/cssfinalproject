@@ -31,3 +31,14 @@ body {
     margin-bottom: 10px;
 
 }
+
+.header .links {
+    font-size: 12px;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
