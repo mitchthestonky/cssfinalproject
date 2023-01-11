@@ -34,11 +34,27 @@ body {
 
 .header .links {
     font-size: 12px;
-    width: 100px;
+    width: 400px;
     height: 30px;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
+.header .links .link1 {
+    width: 100px;
+    font-weight: normal;
+    text-align: center;
+}
 
+.header .links .link2 {
+    width: 100px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.header .links .link3 {
+    width: 100px;
+    font-weight: normal;
+    text-align: center;
+}
